@@ -1,0 +1,15 @@
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\bin\Debug\net6.0\GenericCSharp_eps8.exe
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\bin\Debug\net6.0\GenericCSharp_eps8.deps.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\bin\Debug\net6.0\GenericCSharp_eps8.runtimeconfig.json
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\bin\Debug\net6.0\GenericCSharp_eps8.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\bin\Debug\net6.0\GenericCSharp_eps8.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.csproj.AssemblyReference.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.AssemblyInfoInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.AssemblyInfo.cs
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.csproj.CoreCompileInputs.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\refint\GenericCSharp_eps8.dll
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.pdb
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\GenericCSharp_eps8.genruntimeconfig.cache
+C:\Users\alifk\OneDrive\Documents\udemy\C# Mastery\Section 21\GenericCSharp_eps8\GenericCSharp_eps8\obj\Debug\net6.0\ref\GenericCSharp_eps8.dll
